@@ -1,0 +1,34 @@
+/* 安全警示条 */
+.security-banner {
+    background: #07c160;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-size: 14px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.wechat-card {
+    max-width: 680px;
+    margin: 60px auto 20px;
+    padding: 25px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.safe-button {
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+    padding: 12px;
+    background: #576b95;
+    color: white !important;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+}
